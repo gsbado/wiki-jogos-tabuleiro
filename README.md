@@ -1,7 +1,7 @@
 # 🎲 Board Games Wiki
 
 This project is a simple web page dedicated to searching for board games available in Brazil. It allows users to search for games by title or description, displaying results with links to more information.
-The project was developed during "Imersão Dev da Alura", in partnership with Google Gemini, as a practical exercise to learn how to build web applications using AI prompts to support the development process.
+The project was developed during "Imersão Dev Alura com IA", in partnership with Google Gemini, as a practical exercise to learn how to build web applications using AI prompts to support the development process.
 
 ## 🛠️ Technologies Used
 - **HTML**: Web page structure.
