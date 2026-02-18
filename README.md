@@ -1,28 +1,29 @@
-# Wiki de Jogos de Tabuleiro
+# 🎲 Board Games Wiki
 
-Este projeto é uma página web simples dedicada à pesquisa de jogos de tabuleiro disponíveis no Brasil. Ele permite que os usuários pesquisem jogos por título ou descrição, exibindo resultados com links para mais informações.
-O projeto foi desenvolvido durante a Imersão Dev da Alura, em parceria com o Google Gemini, como um exercício prático para aprender a criar aplicações web utilizando prompts de IA para apoiar o processo de desenvolvimento.
+This project is a simple web page dedicated to searching for board games available in Brazil. It allows users to search for games by title or description, displaying results with links to more information.
+The project was developed during "Imersão Dev da Alura", in partnership with Google Gemini, as a practical exercise to learn how to build web applications using AI prompts to support the development process.
 
-## 🛠️ Tecnologias Utilizadas
-- **HTML**: Estrutura da página web.
-- **CSS**: Estilização e layout responsivo.
-- **JavaScript**: Lógica de pesquisa e manipulação do DOM.
-- **Google Gemini**: Apoio na criação do projeto e do código
+## 🛠️ Technologies Used
+- **HTML**: Web page structure.
+- **CSS**: Styling and responsive layout.
+- **JavaScript**: Search logic and DOM manipulation.
+- **Google Gemini**: Support in creating the project and the code.
 
-## 👀 Como Visualizar
-1. Baixe ou clone o repositório.
-2. Abra o arquivo `index.html` em qualquer navegador web moderno.
-3. Digite o nome de um jogo no campo de pesquisa
-4. Clique em "Pesquisar" para ver os resultados.
+## 👀 How to View
+1. Download or clone the repository.
+2. Open the `index.html` file in any modern web browser.
+3. Type the name of a game in the search field.
+4. Click “Pesquisar” to see the results.
 
-## 🖼️ Recursos e Fontes
-- **Imagens**: [Pexels - Board Game Background](https://www.pexels.com/photo/4691555/)
-- **Fonte**: "Nerko One" (Google Fonts)
-- **Ludopedia e Wikipédia**: Fontes de informações sobre os jogos listados.
+## 🖼️ Assets and Credits
+- **Images**: [Pexels - Board Game Background](https://www.pexels.com/photo/4691555/)
+- **Font**: "Nerko One" (Google Fonts)
+- **Ludopedia and Wikipédia**: Sources of information about the listed games.
+- **Created by**: Gabriela Spanemberg Bado
 
-## 📄 Licença
-Este projeto tem fins exclusivamente educacionais.
+## 📄 License
+This project is for educational purposes only.
 
-## 🖥️ Prévia
+## 🖥️ Preview
 ![Wiki de Jogos de Tabuleiro](assets/preview1.jpg)
 > Example of the project interface.
