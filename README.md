@@ -24,5 +24,5 @@ O projeto foi desenvolvido durante a Imersão Dev da Alura, em parceria com o Go
 Este projeto tem fins exclusivamente educacionais.
 
 ## 🖥️ Prévia
-![Wiki de Jogos de Tabuleiro](assets/preview1.jpeg)
+![Wiki de Jogos de Tabuleiro](assets/preview1.jpg)
 > Example of the project interface.
