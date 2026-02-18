@@ -1,6 +1,5 @@
 # Wiki de Jogos de Tabuleiro
 
-## Descrição
 Este projeto é uma página web simples dedicada à pesquisa de jogos de tabuleiro disponíveis no Brasil. Ele permite que os usuários pesquisem jogos por título ou descrição, exibindo resultados com links para mais informações.
 O projeto foi desenvolvido durante a Imersão Dev da Alura, em parceria com o Google Gemini, como um exercício prático para aprender a criar aplicações web utilizando prompts de IA para apoiar o processo de desenvolvimento.
 
@@ -25,5 +24,5 @@ O projeto foi desenvolvido durante a Imersão Dev da Alura, em parceria com o Go
 Este projeto tem fins exclusivamente educacionais.
 
 ## 🖥️ Prévia
-![Wiki de Jogos de Tabuleiro]
+![Wiki de Jogos de Tabuleiro](assets/preview1.jpeg)
 > Example of the project interface.
